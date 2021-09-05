@@ -15,7 +15,7 @@ namespace LineComparsion.cs
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("line length:" + LineComparision.distance(5, 6, , 5));
+            Console.WriteLine("line length:" + LineComparision.distance(5, 6, 6, 5));
             Console.ReadLine();
         }
     }
